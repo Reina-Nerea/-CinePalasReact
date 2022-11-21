@@ -1,0 +1,41 @@
+[
+
+{
+    "img" : "./imagen/imag.jpg",
+    "titulo" : "Predator: La presa",
+    "descripcion" : "Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente." , 
+     "Actores" : ""
+},
+
+{
+    "img" : "./imagen/pelicula2.jpg",
+    "titulo" : "Jurassic World: Dominion",
+    "descripcion" : "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven y cazan a los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide." , 
+    "Actores" : ""
+},
+
+{
+    "img" : "./imagen/pelicula3.jpg",
+    "titulo" : "Black Phone",
+    "descripcion" : "En una ciudad de Colorado, en los años 70, un enmascarado secuestra a Finney Shaw, un chico tímido e inteligente de 13 años, y le encierra en un sótano insonorizado donde de nada sirven sus gritos. Cuando un teléfono roto y sin conexión empieza a sonar." , 
+    "Actores" : ""
+},
+
+{
+    "img" : "./imagen/pelicula4.jpg",
+    "titulo" : "La Huérfana: El Origen",
+    "descripcion" : "Tras escapar de un centro psiquiátrico estonio, Leena Klammer viaja a América haciéndose pasar por Esther, la hija desaparecida de una familia adinerada. Pero cuando su máscara empieza a caer, se enfrenta a una madre que protegerá a su familia de la  niña asesina." , 
+    "Actores" : ""
+},
+
+{
+    "img" : "./imagen/pelicula5.jpg",
+    "titulo" : "Red",
+    "descripcion" : "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente.",
+    "Actores" : ""  
+}
+
+
+
+]
+
